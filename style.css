@@ -1,0 +1,158 @@
+.menuBar {
+	width: 100%;
+
+	
+	display: inline-block;
+}
+.menu ul li{
+	list-style-type: none;
+	width: 5%;
+	padding: 20px;
+	margin: 10px;
+	
+	display: inline-block;
+	text-align: center;
+}
+.menu{
+	display:inline-block;
+	width: 70%;
+	
+	margin-left: 5%;
+	text-align: right;
+
+	
+ 
+}
+.logo {
+	display: inline-block;
+	width: 20%;
+	margin-left: 20px;
+	font-size: 20px;
+
+}
+.logo a{
+	text-decoration: none;
+	color: brown;
+	background-color: antiquewhite;
+}
+.menu ul li a{
+	text-decoration: none;
+	
+	font-size: 20px;
+	color: brown;
+}
+.fonti{
+	font-family: impact;
+}
+
+.baneri {
+	background-image: url(suratebi/images2.jpg);
+	padding: 150px;
+	background-size: cover;
+	text-align: center;
+	color: wheat;
+	font-size: 20px;
+	background-attachment: fixed;
+}
+.satauri {
+	font-family: "Study Person";
+	font-size: 30px;
+
+}
+.qvesatauri {
+	font-family: "Arial Narrow";
+	font-size: 20px;
+}
+
+.gilaki {
+	background-color: rgba(153, 96, 9, 0.8);
+	padding: 20px;
+	width: 20%;
+	margin: auto;
+}
+.gilaki a{
+	color: black;
+	font-size: 30px;
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	text-decoration: none;
+}
+.offersBox{
+	background-color: grey;
+	text-align: center;
+}
+.boxTitle {
+	font-size: 40px;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.booksBox {
+	background-color: silver;
+	text-align: center;
+	padding: 40px;
+	width: 80%;
+	margin: auto;
+}
+
+.book {
+	width: 20%;
+	background-color: aliceblue;
+	margin: 10px;
+	display: inline-block;
+	height: 300px;
+	padding-top: 140px;
+
+}
+.book a{
+	text-decoration: none;
+	font-size: 20px;
+	font-family: calibri;
+	color: wheat;
+	
+}
+.book1 {
+	background-image: url("suratebi/images5.jpg");
+	background-size: cover;
+}
+.book2 {
+	background-image: url(suratebi/book.jpg);
+	background-size: cover;
+}
+.book3 {
+	background-image: url(suratebi/images2.jpg);
+	background-size: cover;
+}
+.book4 {
+	background-image: url(suratebi/images1.jpg);
+}
+
+footer{
+	width: 100%;
+	background-color: orange;
+	padding: 100px;
+	text-align: center;
+}
+.footerTitle{
+	color: wheat;
+	font-size: 30px;
+}
+.footersubTitle {
+	color: whitesmoke0;
+	font-size: 25;
+}
+.sign input[type=email] {
+	width: 30%;
+	padding: 20px;
+
+}
+.signButton {
+	width: 20%;
+	padding: 20px;
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	text-align: center;
+	border: 1px solid white;
+	margin: auto;
+}
+.signButton {
+	color: white;
+	text-decoration: none;
+	
+}
